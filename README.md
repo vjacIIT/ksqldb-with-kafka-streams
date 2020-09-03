@@ -1,9 +1,10 @@
 # ksqldb-with-kafka-streams
 Project work done during my internship at GE Healthcare.
 
-####       1. This work is partial because GE has the copyright to all the work. This repository only contains content which is available publically. 
-####       2. All commands need to be as a super user
-####       3. Kafka_projects contains java files for producer and consumer from terminal
+####       1. Project content here is partial because GE has the copyright to all the work. This repository only contains content which is available publically.
+####       2. None of personal file or data of GE is used.
+####       2. All commands need to be as a super user.
+####       3. Kafka_projects contains java files for producer and consumer from terminal.
 
 #### Prerequisites:
 Install docker
