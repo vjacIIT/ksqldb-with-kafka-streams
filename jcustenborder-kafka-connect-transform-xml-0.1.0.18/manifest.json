@@ -1,0 +1,33 @@
+{
+  "name" : "kafka-connect-transform-xml",
+  "version" : "0.1.0.18",
+  "title" : "Xml Transformation",
+  "description" : "Kafka Connect transformation for handling Xml data based on a XSD. This transformation will convert text based Xml",
+  "owner" : {
+    "username" : "jcustenborder",
+    "name" : "Jeremy Custenborder"
+  },
+  "support" : {
+    "summary" : "Support provided through community involvement.",
+    "url" : "https://github.com/jcustenborder/kafka-connect-transform-xml/issues"
+  },
+  "tags" : [ "Xml", "Transform" ],
+  "features" : {
+    "supported_encodings" : [ "any" ],
+    "single_message_transforms" : true,
+    "confluent_control_center_integration" : true,
+    "kafka_connect_api" : true
+  },
+  "documentation_url" : "https://jcustenborder.github.io/kafka-connect-documentation/projects/kafka-connect-transform-xml/",
+  "source_url" : "https://github.com/jcustenborder/kafka-connect-transform-xml",
+  "docker_image" : {
+    "namespace" : "jcustenborder",
+    "name" : "kafka-connect-docker"
+  },
+  "license" : [ {
+    "name" : "Apache License 2.0",
+    "url" : "https://www.apache.org/licenses/LICENSE-2.0.txt"
+  } ],
+  "component_types" : [ "transform" ],
+  "release_date" : "2020-03-31"
+}
